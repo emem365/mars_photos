@@ -11,15 +11,6 @@ The app also leverages [ViewModel](https://developer.android.com/topic/libraries
 [Data Binding](https://developer.android.com/topic/libraries/data-binding/) with binding 
 adapters.
 
-Pre-requisites
---------------
-
-You need to know:
-- How to create and use fragments.
-- How to use architecture components including ViewModel, and LiveData.
-- How to use coroutines for long-running tasks.
-
-
 Getting Started
 ---------------
 
